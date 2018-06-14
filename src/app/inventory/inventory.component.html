@@ -1,0 +1,37 @@
+<div class="card">
+	<div class="card-block">
+		<div class="col-sm-12">
+			<h6 class="card-title">
+			Add Configuration
+			</h6>
+			<br/>
+			<input type="text" placeholder="Configuration Name" [(ngModel)]="clientName"
+			class="col-6 form-control" />
+			<br><br>
+			<ng2-smart-table [settings]="settings"></ng2-smart-table><br>
+			<div class="row">
+				<div class="col-sm-6"></div>
+				<div class="col-sm-6" style="text-align:right">
+					<!-- <button type="submit" class="btn btn-primary"
+					(click)="$location.path('')">Submit</button> -->
+
+					<a class ="btn btn-primary" href="http://localhost:4200/inventoryUpload">Submit </a>
+
+						<!-- (click)="saveClientConfig(source,clientName)">Submit</button> -->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- <div class="card">
+	<div class="card-block">
+		<div class="col-sm-12">
+			<h6 class="card-title">
+			Config Summary
+			</h6>
+			<br>
+			<ng2-smart-table [settings]="settingsSummary" > </ng2-smart-table>
+		</div>
+	</div>
+</div> -->

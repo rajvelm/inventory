@@ -1,0 +1,8 @@
+Username,Display Name,User Group,User Status,Market,Product Group,Allowed,Last Changed,Created Date
+Sneha,Sneha,DV Trading,Active,CME,BMD,TRUE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
+Latha,Latha,DV Trading,InActive,CBOT,MGFX,FALSE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
+Niroshini,Niroshini,DV Trading,Active,COMEX,KCBT,TRUE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
+Raj,Raj,DV Trading,InActive,ICE,IFCA,FALSE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
+Anup,Anup,DV Trading,Active,CME,NYMEX,TRUE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
+NJ,NJ,DV Trading,Active,CME,COMEX,FALSE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
+Ram,Ram,DV Trading,InActive,CME,CBOT,TRUE,5/29/2018 10:32:00 AM,5/29/2018 10:32:00 AM
